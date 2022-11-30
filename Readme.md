@@ -32,5 +32,5 @@ Hi Everyone, Welcome to the Java Course. This repository contains informations, 
 | الأسبوع 2| 2   |[Java persistence API (JPA)r](https://github.com/Tuwaiq-Academy-Training/Java-Course-Paradigms-OOP)|[التمرين السابع](https://github.com/Tuwaiq-Academy-Training/Java-Course-Exercise-7)|
 | الأسبوع 2| 3   |[ Repository Layer طبقة المستودع  ](https://github.com/Tuwaiq-Academy-Training/Java-Course-OOP-Principles-Inheritance)|[التمرين الثامن](https://github.com/Tuwaiq-Academy-Training/Java-Course-Exercise-8)|
 | الأسبوع 2| 4   |[Errors Handling (Controller Advise)   ](https://github.com/Tuwaiq-Academy-Training/Java-Course-Encapsulation)|[التمرين التاسع](https://github.com/Tuwaiq-Academy-Training/Java-Course-Exercise-9)|
-| الأسبوع 2| 5   |[المشروع النهائي  ](https://github.com/Tuwaiq-Academy-Training/Java-Course-Polymorphism-Abstraction)|[التمرين العاشر](https://github.com/Tuwaiq-Academy-Training/Java-Course-Exercise-10)|
+| الأسبوع 2| 5   |[المشروع النهائي  ](https://github.com/Tuwaiq-Academy-Training/Java-Course-Polymorphism-Abstraction)|[ ______ ](https://github.com/Tuwaiq-Academy-Training/Java-Course-Exercise-10)|
 
