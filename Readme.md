@@ -23,7 +23,7 @@ Hi Everyone, Welcome to the Java Course. This repository contains informations, 
 
 | الأسبوع| اليوم | الدرس |التمرين |
 |:-----:|:---:|:------:|:------:|
-| الأسبوع 1| 1   |[مقدّمة في Spring Boot وتحميل الأدوات الأساسية لبناء برنامج وتشغيله  ](https://github.com/Tuwaiq-Academy-Training/Java-Course-Basics)|[التمرين الأول](https://github.com/Tuwaiq-Academy-Training/Java-Course-Exercise-1) |
+| الأسبوع 1| 1   |[مقدّمة في Spring Bootوتحميل الأدوات الأساسية لبناء برنامج وتشغيله  ](https://github.com/Tuwaiq-Academy-Training/Java-Course-Basics)|[التمرين الأول](https://github.com/Tuwaiq-Academy-Training/Java-Course-Exercise-1) |
 | الأسبوع 1| 2   |[التعليقات التوضيحية Annotations و مفهوم JSON و وحدة التحكم Controller layer ](https://github.com/Tuwaiq-Academy-Training/Java-Course-Strings-Operators-Scanner)|[التمرين الثاني](https://github.com/Tuwaiq-Academy-Training/Java-Course-Exercise-2)|
 | الأسبوع 1| 3   |[مفهوم REST](https://github.com/Tuwaiq-Academy-Training/Java-Course-Conditions-Loops)|[التمرين الثالث](https://github.com/Tuwaiq-Academy-Training/Java-Course-Exercise-3)|
 | الأسبوع 1| 4   |[مكتبة Validation](https://github.com/Tuwaiq-Academy-Training/Java-Course-Arrays)| [التمرين الرابع](https://github.com/Tuwaiq-Academy-Training/Java-Course-Exercise-4)|
