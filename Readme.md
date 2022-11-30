@@ -24,7 +24,7 @@ Hi Everyone, Welcome to the Java Course. This repository contains informations, 
 | الأسبوع| اليوم | الدرس |التمرين |
 |:-----:|:---:|:------:|:------:|
 | الأسبوع 1| 1   |[ Spring Boot مقدّمة في وتحميل الأدوات الأساسية لبناء برنامج وتشغيله  ](https://github.com/Tuwaiq-Academy-Training/Java-Course-Basics)|[التمرين الأول](https://github.com/Tuwaiq-Academy-Training/Java-Course-Exercise-1) |
-| الأسبوع 1| 2   |[ Annotations التعليقات التوضيحية JSON و مفهوم  Controller layer و وحدة التحكم ](https://github.com/Tuwaiq-Academy-Training/Java-Course-Strings-Operators-Scanner)|[التمرين الثاني](https://github.com/Tuwaiq-Academy-Training/Java-Course-Exercise-2)|
+| الأسبوع 1| 2   |[ Controller layer و وحدة التحكم  JSON و مفهوم Annotations التعليقات التوضيحية ](https://github.com/Tuwaiq-Academy-Training/Java-Course-Strings-Operators-Scanner)|[التمرين الثاني](https://github.com/Tuwaiq-Academy-Training/Java-Course-Exercise-2)|
 | الأسبوع 1| 3   |[ REST مفهوم](https://github.com/Tuwaiq-Academy-Training/Java-Course-Conditions-Loops)|[التمرين الثالث](https://github.com/Tuwaiq-Academy-Training/Java-Course-Exercise-3)|
 | الأسبوع 1| 4   |[ Validation مكتبة](https://github.com/Tuwaiq-Academy-Training/Java-Course-Arrays)| [التمرين الرابع](https://github.com/Tuwaiq-Academy-Training/Java-Course-Exercise-4)|
 | الأسبوع 1| 5   |[ Service layer طبقة الخدمة ](https://github.com/Tuwaiq-Academy-Training/Java-Course-Functions) |[المشروع الأول](https://github.com/Tuwaiq-Academy-Training/Java-Course-Exercise-5)|
