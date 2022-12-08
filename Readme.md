@@ -1,4 +1,4 @@
-# Java Course 2-Weeks 
+# Spring Boot Course 2-Weeks 
 Hi Everyone, Welcome to Spring Boot Course. This repository contains informations, labs, homeworks, projects and lessons specific to your course.
 
 ## Schedule
