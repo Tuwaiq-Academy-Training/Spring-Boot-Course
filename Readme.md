@@ -23,7 +23,7 @@ Hi Everyone, Welcome to Spring Boot Course. This repository contains information
 
 | الأسبوع| اليوم | الدرس |التمرين |
 |:-----:|:---:|:------:|:------:|
-| الأسبوع 1| 1   |[مقدمة في Spring Boot](https://github.com/Tuwaiq-Academy-Training/Spring-Boot-Introduction)|[التمرين الأول](https://github.com/Tuwaiq-Academy-Training/Java-Course-Exercise-1) |
+| الأسبوع 1| 1   |[Spring Boot Introduction](https://github.com/Tuwaiq-Academy-Training/Spring-Boot-Introduction)|[التمرين الأول](https://github.com/Tuwaiq-Academy-Training/Java-Course-Exercise-1) |
 | الأسبوع 1| 2   |[Annotations-JSON-Controller layer](https://github.com/Tuwaiq-Academy-Training/Spring-Boot-Annotations-JSON-Controller)|[التمرين الثاني](https://github.com/Tuwaiq-Academy-Training/Java-Course-Exercise-2)|
 | الأسبوع 1| 3   |[ REST ](https://github.com/Tuwaiq-Academy-Training/Spring-Boot-REST)|[التمرين الثالث](https://github.com/Tuwaiq-Academy-Training/Java-Course-Exercise-3)|
 | الأسبوع 1| 4   |[ Validation ](https://github.com/Tuwaiq-Academy-Training/Spring-Boot-Validation)| [التمرين الرابع](https://github.com/Tuwaiq-Academy-Training/Java-Course-Exercise-4)|
