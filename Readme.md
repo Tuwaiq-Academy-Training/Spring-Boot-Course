@@ -23,14 +23,14 @@ Hi Everyone, Welcome to Spring Boot Course. This repository contains information
 
 | الأسبوع| اليوم | الدرس |التمرين |
 |:-----:|:---:|:------:|:------:|
-| الأسبوع 1| 1   |[ وتحميل الأدوات الأساسية لبناء برنامج وتشغيلهSpring Boot مقدّمة في   ](https://github.com/Tuwaiq-Academy-Training/Spring-Boot-Introduction)|[----](https://github.com/Tuwaiq-Academy-Training/Java-Course-Exercise-1) |
-| الأسبوع 1| 2   |[ Controller layer و وحدة التحكم  JSON و مفهوم Annotations التعليقات التوضيحية ](https://github.com/Tuwaiq-Academy-Training/Spring-Boot-Annotations-JSON-Controller)|[التمرين الثاني](https://github.com/Tuwaiq-Academy-Training/Java-Course-Exercise-2)|
-| الأسبوع 1| 3   |[ REST مفهوم](https://github.com/Tuwaiq-Academy-Training/Spring-Boot-REST)|[التمرين الثالث](https://github.com/Tuwaiq-Academy-Training/Java-Course-Exercise-3)|
-| الأسبوع 1| 4   |[ Validation مكتبة](https://github.com/Tuwaiq-Academy-Training/Spring-Boot-Validation)| [التمرين الرابع](https://github.com/Tuwaiq-Academy-Training/Java-Course-Exercise-4)|
-| الأسبوع 1| 5   |[ Service layer طبقة الخدمة ](https://github.com/Tuwaiq-Academy-Training/Spring-Boot-Service-Layer) |[المشروع الأول](https://github.com/Tuwaiq-Academy-Training/Java-Course-Exercise-5)|
-| الأسبوع 2| 1   |[ Database SQL قواعد البيانات ](https://github.com/Tuwaiq-Academy-Training/Spring-Boot-SQL)|[التمرين السادس](https://github.com/Tuwaiq-Academy-Training/Java-Course-Exercise-6)|
+| الأسبوع 1| 1   |[مقدمة في Spring Boot](https://github.com/Tuwaiq-Academy-Training/Spring-Boot-Introduction)|[التمرين الأول](https://github.com/Tuwaiq-Academy-Training/Java-Course-Exercise-1) |
+| الأسبوع 1| 2   |[Annotations-JSON-Controller layer](https://github.com/Tuwaiq-Academy-Training/Spring-Boot-Annotations-JSON-Controller)|[التمرين الثاني](https://github.com/Tuwaiq-Academy-Training/Java-Course-Exercise-2)|
+| الأسبوع 1| 3   |[ REST ](https://github.com/Tuwaiq-Academy-Training/Spring-Boot-REST)|[التمرين الثالث](https://github.com/Tuwaiq-Academy-Training/Java-Course-Exercise-3)|
+| الأسبوع 1| 4   |[ Validation ](https://github.com/Tuwaiq-Academy-Training/Spring-Boot-Validation)| [التمرين الرابع](https://github.com/Tuwaiq-Academy-Training/Java-Course-Exercise-4)|
+| الأسبوع 1| 5   |[ Service layer ](https://github.com/Tuwaiq-Academy-Training/Spring-Boot-Service-Layer) |[المشروع الأول](https://github.com/Tuwaiq-Academy-Training/Java-Course-Exercise-5)|
+| الأسبوع 2| 1   |[ Database SQL ](https://github.com/Tuwaiq-Academy-Training/Spring-Boot-SQL)|[التمرين السادس](https://github.com/Tuwaiq-Academy-Training/Java-Course-Exercise-6)|
 | الأسبوع 2| 2   |[Java persistence API (JPA)r](https://github.com/Tuwaiq-Academy-Training/Spring-Boot-JPA)|[التمرين السابع](https://github.com/Tuwaiq-Academy-Training/Java-Course-Exercise-7)|
-| الأسبوع 2| 3   |[ Repository Layer طبقة المستودع  ](https://github.com/Tuwaiq-Academy-Training/Spring-Boot-Repository)|[التمرين الثامن](https://github.com/Tuwaiq-Academy-Training/Java-Course-Exercise-8)|
+| الأسبوع 2| 3   |[ Repository Layer ](https://github.com/Tuwaiq-Academy-Training/Spring-Boot-Repository)|[التمرين الثامن](https://github.com/Tuwaiq-Academy-Training/Java-Course-Exercise-8)|
 | الأسبوع 2| 4   |[Errors Handling (Controller Advise)   ](https://github.com/Tuwaiq-Academy-Training/Spring-Boot-Errors-Handling)|[التمرين التاسع](https://github.com/Tuwaiq-Academy-Training/Java-Course-Exercise-9)|
 | الأسبوع 2| 5   |[المشروع النهائي  ](https://github.com/Tuwaiq-Academy-Training/Spring-Boot-Final-Project)|[ ______ ](https://github.com/Tuwaiq-Academy-Training/Java-Course-Exercise-10)|
 
