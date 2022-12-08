@@ -1,5 +1,5 @@
 # Java Course 2-Weeks 
-Hi Everyone, Welcome to the Java Course. This repository contains informations, labs, homeworks, projects and lessons specific to your course.
+Hi Everyone, Welcome to Spring Boot Course. This repository contains informations, labs, homeworks, projects and lessons specific to your course.
 
 ## Schedule
 |  | Days | Time |
