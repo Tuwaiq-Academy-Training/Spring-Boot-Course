@@ -32,5 +32,5 @@ Hi Everyone, Welcome to Spring Boot Course. This repository contains information
 | الأسبوع 2| 2   |[Java persistence API (JPA)r](https://github.com/Tuwaiq-Academy-Training/Spring-Boot-JPA)|[التمرين السابع](https://github.com/Tuwaiq-Academy-Training/Java-Course-Exercise-7)|
 | الأسبوع 2| 3   |[ Repository Layer ](https://github.com/Tuwaiq-Academy-Training/Spring-Boot-Repository)|[التمرين الثامن](https://github.com/Tuwaiq-Academy-Training/Java-Course-Exercise-8)|
 | الأسبوع 2| 4   |[Errors Handling (Controller Advise)   ](https://github.com/Tuwaiq-Academy-Training/Spring-Boot-Errors-Handling)|[التمرين التاسع](https://github.com/Tuwaiq-Academy-Training/Java-Course-Exercise-9)|
-| الأسبوع 2| 5   |[المشروع النهائي  ](https://github.com/Tuwaiq-Academy-Training/Spring-Boot-Final-Project)|[ ______ ](https://github.com/Tuwaiq-Academy-Training/Java-Course-Exercise-10)|
+| الأسبوع 2| 5   |[Final Project](https://github.com/Tuwaiq-Academy-Training/Spring-Boot-Final-Project)|[ ______ ](https://github.com/Tuwaiq-Academy-Training/Java-Course-Exercise-10)|
 
